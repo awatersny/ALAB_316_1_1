@@ -1,5 +1,3 @@
-// import "./styles.css";
-
 // Menu data structure
 // Yes, I changed the declaration
 const menuLinks = [
